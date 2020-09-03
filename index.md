@@ -37,7 +37,3 @@ output:
           <li> <a href= 'https://insideiim.com/the-last-week-before-cat-the-revision-strategy-to-maximize-your-score' target='_blank'> The Last Week Before CAT: The Revision Strategy To Maximize Your Score </a> </li>
           <li> <a href= 'https://insideiim.com/getting-the-x-in-99-9x-strategy-for-next-three-months-from-a-cat-topper-99-94ile-s-raghavan-from-iim-kozhikode' target='_blank'> Getting The x In 99.9x – Strategy from A CAT Topper (99.94%ile) - S.Raghavan @ IIM Kozhikode </a> </li>
 </ol> 
-
-
-
-        
