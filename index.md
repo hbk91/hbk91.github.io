@@ -8,6 +8,7 @@ output:
 <ol type = 'a'>
           <li> <a href= 'https://hbk91.github.io/JHU_Coursera_Course8_Project' target='_blank'> Human Activity Recognition </a> </li>
           <li> <a href= 'https://hbk91.github.io/JHU_Coursera_Course7_Project' target='_blank'> Fuel Efficiency and Transmission </a> </li>
+</ol>
 
 ### 2. Statistics Projects in R
 <ol type = 'a'>
