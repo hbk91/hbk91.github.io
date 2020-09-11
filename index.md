@@ -10,7 +10,7 @@ Human Activity Recognition </a>
 Fuel Efficiency and Transmission </a>
 </li>
 <li>
-<a href= 'https://hbk91.github.io/JHU_Coursera_Course7_Project' target='_blank'>
+<a href= 'https://hbk91.shinyapps.io/Predict_Next_Word/' target='_blank'>
 Predict Next Word App (Natural Language Processing) </a>
 </li>
 <li>
