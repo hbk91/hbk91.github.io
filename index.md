@@ -15,10 +15,8 @@ Predict Next Word App (Natural Language Processing) </a>
 </li>
 <li>
 <a href= 'https://rpubs.com/hbk91/Predict_Next_Word_PitchDeck' target='_blank'>
-PitckDeck for Predict Next Word App </a>
+PitchDeck for Predict Next Word App </a>
 </li>
-
-
 </ol>
 
 ### 2. Statistics Projects in R
