@@ -105,3 +105,17 @@ Getting The x In 99.9x – Strategy from A CAT Topper (99.94%ile) -
 S.Raghavan @ IIM Kozhikode </a>
 </li>
 </ol>
+
+### 5. Study Notes
+
+<ol type="a">
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/StudyCFA.html' target='_blank'>
+CFA Level III </a>
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Udacity_MLEngineer.html' target='_blank'>
+Udacity ML Enginner Course </a>
+</li>
+</ol>
+
