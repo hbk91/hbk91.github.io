@@ -111,7 +111,7 @@ S.Raghavan @ IIM Kozhikode </a>
 <ol type="a">
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/StudyCFA.html' target='_blank'>
-CFA Level III </a>
+CFA<sup>&reg;</sup> Level III </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Udacity_MLEngineer.html' target='_blank'>
