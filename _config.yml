@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+name: Aman Jindal's Blog   
 title: Aman Jindal's Blog
 description: A collection of my ramblings
 
@@ -7,17 +8,3 @@ markdown: kramdown
 kramdown:
    math_engine: mathjax
    
-footer-links:
-   dribbble:
-   email:
-   facebook:
-   flickr:
-   github: hbk91
-   instagram:
-   linkedin: amanjindal1
-   pinterest:
-   rss: # just type anything here for a working RSS icon
-   twitter: 
-   stackoverflow: 
-   youtube: # channel/<your_long_string> or user/<user-name>
-   googleplus: # anything in your profile username that comes after plus.google.com/
