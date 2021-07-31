@@ -1,3 +1,8 @@
 theme: jekyll-theme-cayman
 title: Aman Jindal's Blog
-description: A collection of my ramblings 
+description: A collection of my ramblings
+
+# Build settings
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
