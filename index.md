@@ -1,10 +1,7 @@
 ---
 title: Aman Jindal's Blog 
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+description: A collection of my ramblings
 ---
-
-# Aman Jindal's Blog
 
 ### 1. Machine Learning Projects in R
 
