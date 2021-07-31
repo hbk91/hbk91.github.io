@@ -1,3 +1,5 @@
+# Aman Jindal's Blog
+
 ### 1. Machine Learning Projects in R
 
 <ol type="a">
