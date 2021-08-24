@@ -1,6 +1,6 @@
 ---
 title: Aman Jindal's Blog
-tagline: Easy websites with GitHub Pages
+tagline: Aman Jindal's Blog
 description: A collection of my ramblings
 ---
 
