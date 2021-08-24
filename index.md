@@ -98,7 +98,7 @@ NPA Decoded: The Past, Present & Future </a>
 </li>
 <li>
 <a href= 'https://insideiim.com/calicut-mini-marathon-eat-sleep-run-repeat' target='_blank'>
-Calicut Mini Marathon : Eat -\> Sleep -\> Run -\> Repeat </a>
+Calicut Mini Marathon : Eat -> Sleep -> Run -> Repeat </a>
 </li>
 <li>
 <a href= 'https://insideiim.com/the-last-week-before-cat-the-revision-strategy-to-maximize-your-score' target='_blank'>
