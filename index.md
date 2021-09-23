@@ -125,7 +125,7 @@ UCLA Anderson MFE Bootcamp (2021-22) </a>
 </li>  
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Udacity_MLEngineer.html' target='_blank'>
-Udacity ML Enginner Course </a>
+Udacity ML Engineer Nanodegree</a>
 </li>
 </ol>
 
