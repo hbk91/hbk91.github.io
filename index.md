@@ -128,7 +128,7 @@ UCLA Anderson MFE Bootcamp (2021-22) </a>
 Udacity ML Engineer Nanodegree</a>
 </li>
 <li>
-<a href= 'https://github.com/hbk91/2021StudyNotes/Coursera_NumMethods_HKUST.md' target='_blank'>
+<a href= 'https://hbk91.github.com/hbk91/2021StudyNotes/Coursera_NumMethods_HKUST.md' target='_blank'>
 Numerical Methods for Engineers by HKUST (Coursera)</a>
 </li>
 </ol>
