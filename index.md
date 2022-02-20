@@ -135,7 +135,7 @@ Udacity ML Engineer Nanodegree</a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/StudyCFA.html' target='_blank'>
-CFA® Study Notes</a>
+CFA<sup>&reg;</sup> Study Notes</a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Coursera/NumericalMethods_HKUST.html' target='_blank'>
