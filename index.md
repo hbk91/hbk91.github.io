@@ -1,10 +1,19 @@
 ---
 title: Aman Jindal's Blog
-tagline: Aman Jindal's Blog
+tagline: Aman Jindal, CFA, FRM, CQF
 description: A collection of my ramblings
 ---
 
-### 1. Machine Learning Projects in R
+### 1. Machine Learning & Finance Projects in Python
+
+<ol type="a">
+<li>
+<a href= 'https://github.com/hbk91/ML_DS_Finance_Python/Pricing_Binary_Options/Pricing_Binary_Options.html' target='_blank'>
+Pricing Binary Options</a>
+</li>
+</ol>
+
+### 2. Machine Learning Projects in R
 
 <ol type="a">
 <li>
@@ -25,7 +34,7 @@ PitchDeck for Predict Next Word App </a>
 </li>
 </ol>
 
-### 2. Statistics Projects in R
+### 3. Statistics Projects in R
 
 <ol type="a">
 <li>
@@ -46,7 +55,7 @@ Exponential Distribution and Central Limit Theorem </a>
 </li>
 </ol>
 
-### 3. Data Analysis and Visualization in R
+### 4. Data Analysis and Visualization in R
 
 <ol type="a">
 <li>
@@ -63,7 +72,7 @@ Interactive Stock Price Chart using Plotly </a>
 </li>
 </ol>
 
-### 4. Articles
+### 5. Articles
 
 <ol type="a">
 <li>
@@ -112,7 +121,7 @@ S.Raghavan @ IIM Kozhikode </a>
 </li>
 </ol>
 
-### 5. Study Notes
+### 6. Study Notes
 
 <ol type="a">
   
@@ -122,6 +131,10 @@ UCLA Anderson MFE Bootcamp (2021-22) </a>
 </li>  
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Udacity_MLEngineer.html' target='_blank'>
+Udacity ML Engineer Nanodegree</a>
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/StudyCFA.html' target='_blank'>
 Udacity ML Engineer Nanodegree</a>
 </li>
 <li>
