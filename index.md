@@ -1,7 +1,7 @@
 ---
 title: Aman Jindal's Blog
 tagline: Aman Jindal, CFA, FRM, CQF
-description: A collection of my ramblings
+description: In a world where one can be anything, be kind
 ---
 
 ### 1. Machine Learning & Finance Projects in Python
@@ -11,6 +11,10 @@ description: A collection of my ramblings
 <a href= 'https://hbk91.github.io/ML_DS_Finance_Python/Pricing_Binary_Options/Pricing_Binary_Options.html' target='_blank'>
 Pricing Binary Options</a>
 </li>
+<li>
+<a href= 'https://hbk91.github.io/ML_DS_Finance_Python/ML_Methods_For_Trading/ML_Methods_For_Trading.html' target='_blank'>
+A few ML methods for Trading</a>
+</li>  
 </ol>
 
 ### 2. Machine Learning Projects in R
