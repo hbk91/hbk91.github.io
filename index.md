@@ -13,7 +13,7 @@ Pricing Binary Options</a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/ML_DS_Finance_Python/ML_Methods_For_Trading/ML_Methods_For_Trading.html' target='_blank'>
-A few Machine Learning methods for Trading</a>
+A few Machine Learning Methods for Trading</a>
 </li>  
 </ol>
 
