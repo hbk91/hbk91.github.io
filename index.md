@@ -16,7 +16,7 @@ Pricing Binary Options</a>
 A few Machine Learning Methods for Trading</a>
 </li>  
 <li>
-<a href= 'https://hbk91.github.io/ML_DS_Finance_Python/ML_Methods_For_Trading/ML_Methods_For_Trading.html' target='_blank'>
+<a href= 'https://hbk91.github.io/ML_DS_Finance_Python/LSTM_Attention_DeepLearning_Trading/LSTM_Attention_DeepLearning_Trading.html' target='_blank'>
 A Deep Learning Model for Trading: LSTM (Long short-term memory) Attention Model</a>
 </li>  
 </ol>
