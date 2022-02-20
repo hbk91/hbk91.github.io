@@ -4,7 +4,7 @@ tagline: Aman Jindal, CFA, FRM, CQF
 description: In a world where one can be anything, be kind
 ---
 
-### 1. Machine Learning & Finance Projects in Python
+### 1. Machine Learning & Finance Projects using Python
 
 <ol type="a">
 <li>
@@ -22,7 +22,7 @@ A Deep Learning Model for Trading: LSTM (Long short-term memory) Attention Model
 </ol>
 
 
-### 2. Machine Learning Projects in R
+### 2. Machine Learning Projects using R
 
 <ol type="a">
 <li>
@@ -43,7 +43,7 @@ PitchDeck for Predict Next Word App </a>
 </li>
 </ol>
 
-### 3. Statistics Projects in R
+### 3. Statistics Projects using R
 
 <ol type="a">
 <li>
@@ -64,7 +64,7 @@ Exponential Distribution and Central Limit Theorem </a>
 </li>
 </ol>
 
-### 4. Data Analysis and Visualization in R
+### 4. Data Analysis and Visualization using R
 
 <ol type="a">
 <li>
