@@ -8,7 +8,7 @@ description: A collection of my ramblings
 
 <ol type="a">
 <li>
-<a href= 'https://github.com/hbk91/ML_DS_Finance_Python/Pricing_Binary_Options/Pricing_Binary_Options.html' target='_blank'>
+<a href= 'https://github.com/hbk91/ML_DS_Finance_Python/blob/main/Pricing_Binary_Options/Pricing_Binary_Options.html' target='_blank'>
 Pricing Binary Options</a>
 </li>
 </ol>
@@ -135,7 +135,7 @@ Udacity ML Engineer Nanodegree</a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/StudyCFA.html' target='_blank'>
-Udacity ML Engineer Nanodegree</a>
+CFA® Study Notes</a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Coursera/NumericalMethods_HKUST.html' target='_blank'>
