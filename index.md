@@ -148,7 +148,12 @@ CFA<sup>&reg;</sup> Study Notes</a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Coursera/NumericalMethods_HKUST.html' target='_blank'>
-Numerical Methods for Engineers by HKUST (Coursera)</a>
+Numerical Methods for Engineers by HKUST via Coursera</a>
 </li>
+</li>
+<li>
+<a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/' target='_blank'>
+Digital Product Management Specialization by Professor Alex Cowan, UVA Darden School of Business via Coursera</a>
+</li>  
 </ol>
 
