@@ -140,7 +140,7 @@ UCLA Anderson MFE Bootcamp (2021-22) </a>
 </li>  
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Udacity_MLEngineer.html' target='_blank'>
-Udacity ML Engineer Nanodegree</a>
+Udacity Machine Learning Engineer Nanodegree</a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/StudyCFA.html' target='_blank'>
@@ -148,11 +148,11 @@ CFA<sup>&reg;</sup> Study Notes</a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Coursera/NumericalMethods_HKUST.html' target='_blank'>
-Numerical Methods for Engineers by HKUST via Coursera</a>
+Numerical Methods for Engineers</a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/' target='_blank'>
-Digital Product Management Specialization by Professor Alex Cowan, UVA Darden School of Business via Coursera</a>
+Digital Product Management Specialization</a>
 </li>  
 </ol>
 
