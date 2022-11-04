@@ -21,8 +21,10 @@ A Deep Learning Model for Trading: LSTM (Long short-term memory) Attention Model
 </li>  
 </ol>
 
+### 2. Gullak Savings Manager
+<a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/Gullak_Savings_Manager/Gullak_Savings_Manager_Product_Idea.html' target='_blank'>Gullak Savings Manager - A Robo Wealth Advisor for the Masses</a>
 
-### 2. Machine Learning Projects using R
+### 3. Machine Learning Projects using R
 
 <ol type="a">
 <li>
@@ -43,7 +45,7 @@ PitchDeck for Predict Next Word App </a>
 </li>
 </ol>
 
-### 3. Statistics Projects using R
+### 4. Statistics Projects using R
 
 <ol type="a">
 <li>
@@ -64,7 +66,7 @@ Exponential Distribution and Central Limit Theorem </a>
 </li>
 </ol>
 
-### 4. Data Analysis and Visualization using R
+### 5. Data Analysis and Visualization using R
 
 <ol type="a">
 <li>
@@ -81,7 +83,7 @@ Interactive Stock Price Chart using Plotly </a>
 </li>
 </ol>
 
-### 5. Articles
+### 6. Articles
 
 <ol type="a">
 <li>
@@ -130,7 +132,7 @@ S.Raghavan @ IIM Kozhikode </a>
 </li>
 </ol>
 
-### 6. Study Notes
+### 7. Study Notes
 
 <ol type="a">
   
