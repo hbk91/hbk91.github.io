@@ -157,7 +157,7 @@ Numerical Methods for Engineers</a>
 Digital Product Management Specialization</a>
 </li>
 <li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/DeFi_Specialization.html' target='_blank'>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Coursera/DeFi_Specialization.html' target='_blank'>
 Decentralized Finance (DeFi) Specialization</a>
 </li>
 </ol>
