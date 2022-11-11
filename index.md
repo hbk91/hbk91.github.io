@@ -155,6 +155,10 @@ Numerical Methods for Engineers</a>
 <li>
 <a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/' target='_blank'>
 Digital Product Management Specialization</a>
-</li>  
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/DeFi_Specialization.html' target='_blank'>
+Decentralized Finance (DeFi) Specialization</a>
+</li>
 </ol>
 
