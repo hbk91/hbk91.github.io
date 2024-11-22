@@ -160,7 +160,6 @@ Digital Product Management Specialization</a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Coursera/DeFi_Specialization.html' target='_blank'>
 Decentralized Finance (DeFi) Specialization</a>
 </li>
-</ol>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Coursera/BIWS_ExcelCourse.html' target='_blank'>
 BIWS Excel & VBA Course</a>
