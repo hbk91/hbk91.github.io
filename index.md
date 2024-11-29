@@ -161,11 +161,21 @@ Digital Product Management Specialization</a>
 Decentralized Finance (DeFi) Specialization</a>
 </li>
 <li>
-<a href= 'https://hbk91.github.io/2021StudyNotes//Microsoft_Excel.html' target='_blank'>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Microsoft_Excel.html' target='_blank'>
 Excel & VBA</a>  
 </li>
 <li>
-<a href= 'https://hbk91.github.io/2021StudyNotes//Utility_Softwares.html' target='_blank'>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Utility_Softwares.html' target='_blank'>
 Utility Softwares</a>  
 </li>
+</ol>
+
+### 8. General Information:
+
+<ol type="a">
+  
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/StudentCC.html' target='_blank'>
+US Credit Cards for Students </a>
+</li>  
 </ol>
