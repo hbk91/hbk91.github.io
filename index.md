@@ -162,6 +162,10 @@ Decentralized Finance (DeFi) Specialization</a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes//Microsoft_Excel.html' target='_blank'>
-Excel, VBA, and Others</a>  
+Excel & VBA</a>  
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes//Utility_Softwares.html' target='_blank'>
+Utilites</a>  
 </li>
 </ol>
