@@ -173,7 +173,11 @@ Utility Softwares</a>
 ### 8. General Information:
 
 <ol type="a">
-  
+
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/AI_Tools.html' target='_blank'>
+AI Tools Overview </a>
+</li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/StudentCC.html' target='_blank'>
 US Credit Cards for Students </a>
