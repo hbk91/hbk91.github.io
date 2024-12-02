@@ -190,4 +190,8 @@ New York Housing </a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/SHSAT.html' target='_blank'>
 SHSAT </a>
 </li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/YaleResources.html' target='_blank'>
+Yale Resources for Studens </a>
+</li>
 </ol>
