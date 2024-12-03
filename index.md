@@ -132,7 +132,7 @@ S.Raghavan @ IIM Kozhikode </a>
 </li>
 </ol>
 
-### 7. Finance:
+### 7. Finance
 
 <ol type="a">
   
@@ -149,7 +149,7 @@ CFA<sup>&reg;</sup> Study Notes</a>
 </li>
 </ol>
 
-### 8. Machine Learning, AI, and Mathematics:
+### 8. Machine Learning, AI, and Mathematics
 
 <ol type="a">
 <li>
@@ -166,7 +166,7 @@ AI Tools Overview </a>
 </li>
 </ol>
 
-### 9. Investment Banking:
+### 9. Investment Banking
 
 <ol type="a">
 <li>
@@ -177,18 +177,38 @@ Excel & VBA</a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/IB_General.html' target='_blank'>
 Investment Banking General</a>  
 </li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/FactSet.html' target='_blank'>
+FactSet</a>  
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/SP_CapitalIQ.html' target='_blank'>
+S&P Capital IQ</a>  
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/PitchBook.html' target='_blank'>
+PitchBook</a>  
+</li>
 </ol>
 
-### 10. Utility Softwares:
+### 10. Utility Softwares
 
 <ol type="a">
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Outlook.html' target='_blank'>
 Microsoft Outlook </a>
 </li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Outlook.html' target='_blank'>
+Browsers </a>
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/GMAIL.html' target='_blank'>
+Gmail </a>
+</li>
 </ol>
 
-### 11. Product Management:
+### 11. Product Management
 
 <ol type="a">
 <li>
@@ -197,7 +217,7 @@ Digital Product Management Specialization</a>
 </li>
 </ol>
 
-### 12. General Information:
+### 12. General Information
 
 <ol type="a">
 <li>
