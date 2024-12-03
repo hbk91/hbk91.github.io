@@ -195,6 +195,10 @@ PitchBook</a>
 
 <ol type="a">
 <li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/VSCode.html' target='_blank'>
+VS Code </a>
+</li>
+<li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Outlook.html' target='_blank'>
 Microsoft Outlook </a>
 </li>
@@ -205,6 +209,10 @@ Browsers </a>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/GMAIL.html' target='_blank'>
 Gmail </a>
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Adobe_Acrobat.html' target='_blank'>
+Adobe Acrobat </a>
 </li>
 </ol>
 
@@ -230,7 +238,7 @@ New York Housing </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/SHSAT.html' target='_blank'>
-SHSAT </a>
+SHSAT Exam </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/YaleResources.html' target='_blank'>
