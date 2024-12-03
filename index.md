@@ -132,34 +132,43 @@ S.Raghavan @ IIM Kozhikode </a>
 </li>
 </ol>
 
-### 7. Study Notes
+### 7. Finance:
 
 <ol type="a">
   
 <li>
 <a href= 'https://hbk91.github.io/UCLA_MFE_2021-22_BootCamp_Group23' target='_blank'>
 UCLA Anderson MFE Bootcamp (2021-22) </a>
-</li>  
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/Udacity_MLEngineer.html' target='_blank'>
-Udacity Machine Learning Engineer Nanodegree</a>
-</li>
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/StudyCFA.html' target='_blank'>
-CFA<sup>&reg;</sup> Study Notes</a>
-</li>
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/Coursera/NumericalMethods_HKUST.html' target='_blank'>
-Numerical Methods for Engineers</a>
-</li>
-<li>
-<a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/' target='_blank'>
-Digital Product Management Specialization</a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Coursera/DeFi_Specialization.html' target='_blank'>
 Decentralized Finance (DeFi) Specialization</a>
 </li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/StudyCFA.html' target='_blank'>
+CFA<sup>&reg;</sup> Study Notes</a>
+</li>
+</ol>
+
+## 8. Machine Learning, AI, and Mathematics:
+
+<ol type="a">
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Udacity_MLEngineer.html' target='_blank'>
+Udacity Machine Learning Engineer Nanodegree</a>
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Coursera/NumericalMethods_HKUST.html' target='_blank'>
+Numerical Methods for Engineers</a>
+</li>
+</ol>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/AI_Tools.html' target='_blank'>
+AI Tools Overview </a>
+</li>
+
+### 9. Investment Banking:
+
+<ol type="a">
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Microsoft_Excel.html' target='_blank'>
 Excel & VBA</a>  
@@ -168,25 +177,29 @@ Excel & VBA</a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/IB_General.html' target='_blank'>
 Investment Banking General</a>  
 </li>
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/Utility_Softwares.html' target='_blank'>
-Utility Softwares</a>  
-</li>
 </ol>
 
-### 8. General Information:
+### 10. Utility Softwares:
 
 <ol type="a">
-
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/AI_Tools.html' target='_blank'>
-AI Tools Overview </a>
-</li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Outlook.html' target='_blank'>
 Microsoft Outlook </a>
 </li>
+</ol>
 
+### 11. Product Management:
+
+<ol type="a">
+<li>
+<a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/' target='_blank'>
+Digital Product Management Specialization</a>
+</li>
+</ol>
+
+### 12. General Information:
+
+<ol type="a">
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/StudentCC.html' target='_blank'>
 US Credit Cards for Students </a>
