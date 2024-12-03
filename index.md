@@ -179,6 +179,11 @@ Utility Softwares</a>
 AI Tools Overview </a>
 </li>
 <li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Outlook.html' target='_blank'>
+Microsoft Outlook </a>
+</li>
+
+<li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/StudentCC.html' target='_blank'>
 US Credit Cards for Students </a>
 </li>
