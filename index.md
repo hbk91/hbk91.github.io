@@ -149,7 +149,7 @@ CFA<sup>&reg;</sup> Study Notes</a>
 </li>
 </ol>
 
-## 8. Machine Learning, AI, and Mathematics:
+### 8. Machine Learning, AI, and Mathematics:
 
 <ol type="a">
 <li>
@@ -160,11 +160,11 @@ Udacity Machine Learning Engineer Nanodegree</a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Coursera/NumericalMethods_HKUST.html' target='_blank'>
 Numerical Methods for Engineers</a>
 </li>
-</ol>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/AI_Tools.html' target='_blank'>
 AI Tools Overview </a>
 </li>
+</ol>
 
 ### 9. Investment Banking:
 
