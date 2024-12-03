@@ -144,6 +144,7 @@ UCLA Anderson MFE Bootcamp (2021-22) </a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Coursera/DeFi_Specialization.html' target='_blank'>
 Decentralized Finance (DeFi) Specialization</a>
 </li>
+<li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/StudyCFA.html' target='_blank'>
 CFA<sup>&reg;</sup> Study Notes</a>
 </li>
