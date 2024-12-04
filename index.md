@@ -208,7 +208,11 @@ VS Code </a>
 Microsoft Outlook </a>
 </li>
 <li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/Outlook.html' target='_blank'>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Windows.html' target='_blank'>
+Windows </a>
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Browsers.html' target='_blank'>
 Browsers </a>
 </li>
 <li>
