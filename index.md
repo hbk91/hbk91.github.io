@@ -165,6 +165,10 @@ Numerical Methods for Engineers</a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/AI_Tools.html' target='_blank'>
 AI Tools Overview </a>
 </li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/AI_Business_Cases.html' target='_blank'>
+AI Business Cases </a>
+</li>
 </ol>
 
 ### 9. Investment Banking
