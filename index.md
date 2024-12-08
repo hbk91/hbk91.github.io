@@ -227,6 +227,10 @@ Gmail </a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Adobe_Acrobat.html' target='_blank'>
 Adobe Acrobat </a>
 </li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Git.html' target='_blank'>
+Git </a>
+</li>
 </ol>
 
 ### 11. Product Management
