@@ -250,6 +250,10 @@ Digital Product Management Specialization</a>
 US Credit Cards for Students </a>
 </li>
 <li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Investments.html' target='_blank'>
+Investments </a>
+</li>
+<li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/NYCHousing.html' target='_blank'>
 New York Housing </a>
 </li>
