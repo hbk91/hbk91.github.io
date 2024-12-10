@@ -176,7 +176,11 @@ AI Business Cases </a>
 <ol type="a">
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Microsoft_Excel.html' target='_blank'>
-Excel & VBA</a>  
+Microsoft Excel</a>  
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/VBA.html' target='_blank'>
+VBA</a>  
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/IB_General.html' target='_blank'>
