@@ -244,6 +244,10 @@ Git </a>
 <a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/' target='_blank'>
 Digital Product Management Specialization</a>
 </li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/ERP_Companies.html' target='_blank'>
+Enterprise Resource Planning (ERP) Companies</a>
+</li>
 </ol>
 
 ### 12. General Information
