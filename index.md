@@ -273,4 +273,8 @@ SHSAT Exam </a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/YaleResources.html' target='_blank'>
 Yale Resources for Students </a>
 </li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/US_Offline_Stores.html' target='_blank'>
+US Brick & Mortar Stores Typology </a>
+</li>
 </ol>
