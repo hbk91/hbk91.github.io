@@ -250,7 +250,23 @@ Enterprise Resource Planning (ERP) Companies</a>
 </li>
 </ol>
 
-### 12. General Information
+### 12. US Industries
+
+<ol type="a">
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/US_Offline_Stores.html' target='_blank'>
+US Brick & Mortar Stores Typology </a>
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/US_Airlines.html' target='_blank'>
+US Airlines Industry </a>
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/US_Fin_Indexes.html' target='_blank'>
+US Financial Market Indexes </a>
+</li>
+
+### 13. General Information
 
 <ol type="a">
 <li>
@@ -272,14 +288,6 @@ SHSAT Exam </a>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/YaleResources.html' target='_blank'>
 Yale Resources for Students </a>
-</li>
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/US_Offline_Stores.html' target='_blank'>
-US Brick & Mortar Stores Typology </a>
-</li>
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/US_Airlines.html' target='_blank'>
-US Airlines Industry </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/History_Economics.html' target='_blank'>
