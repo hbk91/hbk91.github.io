@@ -281,6 +281,10 @@ US Brick & Mortar Stores Typology </a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/US_Airlines.html' target='_blank'>
 US Airlines Industry </a>
 </li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/History_Economics.html' target='_blank'>
+History, Economics, and Other Analysis </a>
+</li>
 </ol>
 
 
