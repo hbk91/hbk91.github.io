@@ -183,6 +183,10 @@ Microsoft Excel</a>
 VBA</a>  
 </li>
 <li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Microsoft_PPT.html' target='_blank'>
+Microsoft PowerPoint</a>  
+</li>
+<li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/IB_General.html' target='_blank'>
 Investment Banking General</a>  
 </li>
