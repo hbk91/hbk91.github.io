@@ -292,7 +292,11 @@ SHSAT Exam Overview </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/SHSAT_Maths.html' target='_blank'>
-SHSAT Maths Section </a>
+SHSAT Maths Study Material </a>
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/SHSAT_ELA.html' target='_blank'>
+SHSAT ELA Study Material </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/YaleResources.html' target='_blank'>
