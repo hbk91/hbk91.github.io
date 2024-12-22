@@ -288,7 +288,11 @@ New York Housing </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/SHSAT.html' target='_blank'>
-SHSAT Exam </a>
+SHSAT Exam Overview </a>
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/SHSAT_Maths.html' target='_blank'>
+SHSAT Maths Section </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/YaleResources.html' target='_blank'>
