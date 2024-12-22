@@ -239,6 +239,10 @@ Adobe Acrobat </a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Git.html' target='_blank'>
 Git </a>
 </li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Discord.html' target='_blank'>
+Discord </a>
+</li>
 </ol>
 
 ### 11. Product Management
