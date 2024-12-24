@@ -273,6 +273,10 @@ US Airlines Industry </a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/US_Fin_Indexes.html' target='_blank'>
 US Financial Market Indexes </a>
 </li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/US_Healthcare.html' target='_blank'>
+US Financial Market Indexes </a>
+</li>
 </ol>
 
 ### 13. General Information
@@ -303,7 +307,7 @@ SHSAT Maths Study Material </a>
 SHSAT ELA Study Material </a>
 </li>
 <li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/YaleResources.html' target='_blank'>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Yale_Info.html' target='_blank'>
 Yale Resources for Students </a>
 </li>
 <li>
