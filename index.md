@@ -263,19 +263,19 @@ Enterprise Resource Planning (ERP) Companies</a>
 <ol type="a">
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/US_Offline_Stores.html' target='_blank'>
-US Brick & Mortar Stores Typology </a>
+Brick & Mortar Stores Typology </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/US_Airlines.html' target='_blank'>
-US Airlines Industry </a>
+Airlines Industry </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/US_Fin_Indexes.html' target='_blank'>
-US Financial Market Indexes </a>
+Financial Market Indexes </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/US_Healthcare.html' target='_blank'>
-US Financial Market Indexes </a>
+Healthcare Industry </a>
 </li>
 </ol>
 
