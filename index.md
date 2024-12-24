@@ -279,7 +279,7 @@ Healthcare Industry </a>
 </li>
 </ol>
 
-### 12. SHSAT Exam
+### 13. SHSAT Exam
 
 <ol type="a">
 <li>
