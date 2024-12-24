@@ -281,6 +281,7 @@ Healthcare Industry </a>
 
 ### 13. SHSAT Exam
 
+
 <ol type="a">
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/SHSAT.html' target='_blank'>
@@ -300,7 +301,29 @@ Online Teaching Tools </a>
 </li>
 </ol>
 
-### 14. General Information
+### 14. New York City
+
+<ol type="a">
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/NYC_Overview.html' target='_blank'>
+New York City overview </a>
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/NYC_Housing.html' target='_blank'>
+NYC Housing </a>
+</li>
+</ol>
+
+### 15. Fitness
+
+<ol type="a">
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Fitness.html' target='_blank'>
+Fitness </a>
+</li>
+</ol>
+
+### 16. General Information
 
 <ol type="a">
 <li>
@@ -312,20 +335,12 @@ US Credit Cards for Students Comparison </a>
 US Investing & Bank Accounts Comparison </a>
 </li>
 <li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/NYCHousing.html' target='_blank'>
-New York Housing </a>
-</li>
-<li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Yale_Info.html' target='_blank'>
 Yale Information </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/History_Economics.html' target='_blank'>
 History, Economics, and Other Analysis </a>
-</li>
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/Fitness.html' target='_blank'>
-Fitness </a>
 </li>
 </ol>
 
