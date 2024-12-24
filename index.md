@@ -279,21 +279,9 @@ Healthcare Industry </a>
 </li>
 </ol>
 
-### 13. General Information
+### 12. SHSAT Exam
 
 <ol type="a">
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/StudentCC.html' target='_blank'>
-US Credit Cards for Students </a>
-</li>
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/Investments.html' target='_blank'>
-Investments </a>
-</li>
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/NYCHousing.html' target='_blank'>
-New York Housing </a>
-</li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/SHSAT.html' target='_blank'>
 SHSAT Exam Overview </a>
@@ -307,16 +295,37 @@ SHSAT Maths Study Material </a>
 SHSAT ELA Study Material </a>
 </li>
 <li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Teaching_Tools.html' target='_blank'>
+Online Teaching Tools </a>
+</li>
+</ol>
+
+### 14. General Information
+
+<ol type="a">
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/StudentCC.html' target='_blank'>
+US Credit Cards for Students Comparison </a>
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Investments.html' target='_blank'>
+US Investing & Bank Accounts Comparison </a>
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/NYCHousing.html' target='_blank'>
+New York Housing </a>
+</li>
+<li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Yale_Info.html' target='_blank'>
-Yale Resources for Students </a>
+Yale Information </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/History_Economics.html' target='_blank'>
 History, Economics, and Other Analysis </a>
 </li>
 <li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/Teaching_Tools.html' target='_blank'>
-Online Teaching Tools </a>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Fitness.html' target='_blank'>
+Fitness </a>
 </li>
 </ol>
 
