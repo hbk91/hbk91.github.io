@@ -306,7 +306,7 @@ Online Teaching Tools </a>
 <ol type="a">
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/NYC_Overview.html' target='_blank'>
-New York City overview </a>
+New York City Overview </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/NYC_Subway.html' target='_blank'>
@@ -322,7 +322,7 @@ Manhattan Grid System </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Manhattan_Subway.html' target='_blank'>
-NYC Subway in Manhattan </a>
+NYC Subway Sytem in Manhattan </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/NYC_Housing.html' target='_blank'>
