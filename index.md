@@ -335,7 +335,7 @@ NYC Housing </a>
 <ol type="a">
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Exercises_Typology.html' target='_blank'>
-Exercises_Typology </a>
+Exercises Typology </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Kettlebell.html' target='_blank'>
