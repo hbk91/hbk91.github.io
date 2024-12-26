@@ -132,7 +132,7 @@ S.Raghavan @ IIM Kozhikode </a>
 </li>
 </ol>
 
-### 7. Finance
+### 7. Business & Finance
 
 <ol type="a">
   
@@ -147,6 +147,10 @@ Decentralized Finance (DeFi) Specialization</a>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/StudyCFA.html' target='_blank'>
 CFA<sup>&reg;</sup> Study Notes</a>
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Business_Podcasts.html' target='_blank'>
+Podcasts: Business, Financial Markets, Strategy, & Tech </a>
 </li>
 </ol>
 
@@ -171,9 +175,13 @@ AI Business Cases </a>
 </li>
 </ol>
 
-### 9. Investment Banking
+### 9. Investment Banking Nuts & Bolts
 
 <ol type="a">
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/IB_Podcasts.html' target='_blank'>
+Investment Banking Podcasts</a>  
+</li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Microsoft_Excel.html' target='_blank'>
 Microsoft Excel</a>  
@@ -204,7 +212,20 @@ PitchBook</a>
 </li>
 </ol>
 
-### 10. Utility Softwares
+### 10. Financial Institutions Group (FIG) Investment Banking
+
+<ol type="a">
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/FIG_Overview.html' target='_blank'>
+Financial Institutions Group (FIG) Overview</a>  
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/FIG_Podcasts.html' target='_blank'>
+Financial Institutions Group (FIG) Podcasts</a>  
+</li>
+</ol>
+
+### 11. Utility Softwares
 
 <ol type="a">
 <li>
@@ -245,7 +266,7 @@ Discord </a>
 </li>
 </ol>
 
-### 11. Product Management
+### 12. Product Management
 
 <ol type="a">
 <li>
@@ -258,7 +279,7 @@ Enterprise Resource Planning (ERP) Companies</a>
 </li>
 </ol>
 
-### 12. US Industries
+### 13. US Industries
 
 <ol type="a">
 <li>
@@ -279,7 +300,7 @@ Healthcare Industry </a>
 </li>
 </ol>
 
-### 13. SHSAT Exam
+### 14. SHSAT Exam
 
 
 <ol type="a">
@@ -301,7 +322,7 @@ Online Teaching Tools </a>
 </li>
 </ol>
 
-### 14. New York City
+### 15. New York City
 
 <ol type="a">
 <li>
@@ -330,7 +351,7 @@ NYC Housing </a>
 </li>
 </ol>
 
-### 15. Fitness
+### 16. Fitness
 
 <ol type="a">
 <li>
@@ -341,9 +362,22 @@ Exercises Typology </a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Kettlebell.html' target='_blank'>
 Kettlebell </a>
 </li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Fitness_Channels.html' target='_blank'>
+Fitness Podcasts & Youtube Channels </a>
+</li>
 </ol>
 
-### 16. General Information
+### 17. Yale
+
+<ol type="a">
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Yale_Info.html' target='_blank'>
+Yale Information </a>
+</li>
+</ol>
+
+### 18. General Information
 
 <ol type="a">
 <li>
@@ -353,10 +387,6 @@ US Credit Cards for Students Comparison </a>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Investments.html' target='_blank'>
 US Investing & Bank Accounts Comparison </a>
-</li>
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/Yale_Info.html' target='_blank'>
-Yale Information </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/History_Economics.html' target='_blank'>
