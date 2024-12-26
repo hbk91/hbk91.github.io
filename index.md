@@ -392,6 +392,10 @@ US Investing & Bank Accounts Comparison </a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/History_Economics.html' target='_blank'>
 History, Economics, and Other Analysis </a>
 </li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Podcasts_AppsComparison.html' target='_blank'>
+Podcasts Apps Comparison </a>
+</li>
 </ol>
 
 
