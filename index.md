@@ -217,11 +217,11 @@ PitchBook</a>
 <ol type="a">
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/FIG_Overview.html' target='_blank'>
-Financial Institutions Group (FIG) Overview</a>  
+FIG Overview</a>  
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/FIG_Podcasts.html' target='_blank'>
-Financial Institutions Group (FIG) Podcasts</a>  
+FIG Podcasts</a>  
 </li>
 </ol>
 
