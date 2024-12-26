@@ -212,7 +212,7 @@ PitchBook</a>
 </li>
 </ol>
 
-### 10. Financial Institutions Group (FIG) Investment Banking
+### 10. Investment Banking: Financial Institutions Group (FIG) 
 
 <ol type="a">
 <li>
