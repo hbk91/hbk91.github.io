@@ -400,7 +400,6 @@ Podcasts Apps Comparison </a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Metrics_US_Units.html' target='_blank'>
 United States customary system (USCS) and Metric System </a>
 </li>
-
 </ol>
 
 
