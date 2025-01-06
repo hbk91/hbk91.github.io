@@ -173,6 +173,10 @@ AI Tools Overview </a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/AI_Business_Cases.html' target='_blank'>
 AI Business Cases </a>
 </li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/AI_Prompts.html' target='_blank'>
+AI Prompts </a>
+</li>
 </ol>
 
 ### 9. Investment Banking Nuts & Bolts
