@@ -159,11 +159,11 @@ Podcasts: Business, Financial Markets, Strategy, & Tech </a>
 <ol type="a">
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Udacity_MLEngineer.html' target='_blank'>
-Udacity Machine Learning Engineer Nanodegree</a>
+Udacity Machine Learning Engineer Nanodegree </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Coursera/NumericalMethods_HKUST.html' target='_blank'>
-Numerical Methods for Engineers</a>
+Numerical Methods for Engineers </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/AI_Tools.html' target='_blank'>
@@ -179,8 +179,12 @@ AI Business Cases </a>
 
 <ol type="a">
 <li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/AI_Limits.html' target='_blank'>
+AI Limits </a>
+</li>
+<li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/AI_Data_Analysis.html' target='_blank'>
-AI Data Analysis</a>
+AI Data Analysis </a>
 </li>
 </ol>
 
@@ -190,35 +194,35 @@ AI Data Analysis</a>
 <ol type="a">
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/IB_Podcasts.html' target='_blank'>
-Investment Banking Podcasts</a>  
+Investment Banking Podcasts </a>  
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Microsoft_Excel.html' target='_blank'>
-Microsoft Excel</a>  
+Microsoft Excel </a>  
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/VBA.html' target='_blank'>
-VBA</a>  
+VBA </a>  
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Microsoft_PPT.html' target='_blank'>
-Microsoft PowerPoint</a>  
+Microsoft PowerPoint </a>  
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/IB_General.html' target='_blank'>
-Investment Banking General</a>  
+Investment Banking General </a>  
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/FactSet.html' target='_blank'>
-FactSet</a>  
+FactSet </a>  
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/SP_CapitalIQ.html' target='_blank'>
-S&P Capital IQ</a>  
+S&P Capital IQ </a>  
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/PitchBook.html' target='_blank'>
-PitchBook</a>  
+PitchBook </a>  
 </li>
 </ol>
 
@@ -227,15 +231,15 @@ PitchBook</a>
 <ol type="a">
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/FIG_Overview.html' target='_blank'>
-FIG Overview</a>  
+FIG Overview </a>  
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/FIG_Podcasts.html' target='_blank'>
-FIG Podcasts</a>  
+FIG Podcasts </a>  
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/ASB_Acquisition.html' target='_blank'>
-American Savings Bank (ASB) Acquisition</a>  
+American Savings Bank (ASB) Acquisition </a>  
 </li>
 </ol>
 
@@ -285,11 +289,11 @@ Discord </a>
 <ol type="a">
 <li>
 <a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/' target='_blank'>
-Digital Product Management Specialization</a>
+Digital Product Management Specialization </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/ERP_Companies.html' target='_blank'>
-Enterprise Resource Planning (ERP) Companies</a>
+Enterprise Resource Planning (ERP) Companies </a>
 </li>
 </ol>
 
