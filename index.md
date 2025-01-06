@@ -404,6 +404,10 @@ Podcasts Apps Comparison </a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/USCS_Metric_System.html' target='_blank'>
 United States customary system (USCS) and Metric System </a>
 </li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Movies_Merchandise.html' target='_blank'>
+Movies Merchandise Shopping Options </a>
+</li>
 </ol>
 
 
