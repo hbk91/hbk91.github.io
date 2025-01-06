@@ -173,13 +173,19 @@ AI Tools Overview </a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/AI_Business_Cases.html' target='_blank'>
 AI Business Cases </a>
 </li>
+</ol>
+
+### 9. AI Primitive Skillset
+
+<ol type="a">
 <li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/AI_Prompts.html' target='_blank'>
-AI Prompts </a>
+<a href= 'https://hbk91.github.io/2021StudyNotes/AI_Data_Analysis.html' target='_blank'>
+AI Data Analysis</a>
 </li>
 </ol>
 
-### 9. Investment Banking Nuts & Bolts
+
+### 10. Investment Banking Nuts & Bolts
 
 <ol type="a">
 <li>
@@ -216,7 +222,7 @@ PitchBook</a>
 </li>
 </ol>
 
-### 10. Investment Banking: Financial Institutions Group (FIG) 
+### 11. Investment Banking: Financial Institutions Group (FIG) 
 
 <ol type="a">
 <li>
@@ -233,7 +239,7 @@ American Savings Bank (ASB) Acquisition</a>
 </li>
 </ol>
 
-### 11. Utility Softwares
+### 12. Utility Softwares
 
 <ol type="a">
 <li>
@@ -274,7 +280,7 @@ Discord </a>
 </li>
 </ol>
 
-### 12. Product Management
+### 13. Product Management
 
 <ol type="a">
 <li>
@@ -287,7 +293,7 @@ Enterprise Resource Planning (ERP) Companies</a>
 </li>
 </ol>
 
-### 13. US Industries
+### 14. US Industries
 
 <ol type="a">
 <li>
@@ -308,7 +314,7 @@ Healthcare Industry </a>
 </li>
 </ol>
 
-### 14. SHSAT Exam
+### 15. SHSAT Exam
 
 
 <ol type="a">
@@ -330,7 +336,7 @@ Online Teaching Tools </a>
 </li>
 </ol>
 
-### 15. New York City
+### 16. New York City
 
 <ol type="a">
 <li>
@@ -359,7 +365,7 @@ NYC Housing </a>
 </li>
 </ol>
 
-### 16. Fitness
+### 17. Fitness
 
 <ol type="a">
 <li>
@@ -376,7 +382,7 @@ Fitness Podcasts & Youtube Channels </a>
 </li>
 </ol>
 
-### 17. Yale
+### 18. Yale
 
 <ol type="a">
 <li>
@@ -385,7 +391,7 @@ Yale Information </a>
 </li>
 </ol>
 
-### 18. General Information
+### 19. General Purpose
 
 <ol type="a">
 <li>
