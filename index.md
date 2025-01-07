@@ -183,6 +183,10 @@ AI Business Cases </a>
 AI Limits </a>
 </li>
 <li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/AI_Prompts_Typology.html' target='_blank'>
+AI Prompts Typology </a>
+</li>
+<li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/AI_Data_Analysis.html' target='_blank'>
 AI Data Analysis </a>
 </li>
