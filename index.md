@@ -1,6 +1,6 @@
 ---
 title: Aman Jindal's Blog
-tagline: Aman Jindal, CFA, FRM, CQF
+tagline: Aman Jindal, CFA
 description: In a world where one can be anything, be kind
 ---
 
