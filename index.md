@@ -187,6 +187,10 @@ AI Limits </a>
 AI Prompt Engineering </a>
 </li>
 <li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/AI_Prompts_Coding.html' target='_blank'>
+AI Prompts for  Coding </a>
+</li>
+<li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/AI_Data_Analysis.html' target='_blank'>
 AI Data Analysis </a>
 </li>
