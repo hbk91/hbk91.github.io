@@ -1,7 +1,7 @@
 ---
 title: Aman Jindal's Blog
 tagline: Aman Jindal, CFA
-description: In a world where one can be anything, be kind
+description: Finance, Business, AI, and Life!
 ---
 
 ### 1. Machine Learning & Finance Projects using Python
