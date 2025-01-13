@@ -183,8 +183,8 @@ AI Business Cases </a>
 AI Limits </a>
 </li>
 <li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/AI_Prompting.html' target='_blank'>
-AI Prompting </a>
+<a href= 'https://hbk91.github.io/2021StudyNotes/AI_Prompt_Engineering.html' target='_blank'>
+AI Prompt Engineering </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/AI_Data_Analysis.html' target='_blank'>
