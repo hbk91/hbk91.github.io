@@ -1,7 +1,7 @@
 ---
 title: Aman Jindal's Blog
 tagline: Aman Jindal, CFA
-description: Finance, Business, AI, & Life => How about the lining? - Tactical!  
+description: Finance | Business | AI | Life | How about the lining? - Tactical |  
 ---
 
 ### 1. Machine Learning & Finance Projects using Python
