@@ -179,8 +179,8 @@ AI Business Cases </a>
 
 <ol type="a">
 <li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/AI_Limits.html' target='_blank'>
-AI Limits </a>
+<a href= 'https://hbk91.github.io/2021StudyNotes/AI_Limits_Capabilities.html' target='_blank'>
+AI Limits and Capabilities </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/AI_Prompt_Engineering.html' target='_blank'>
