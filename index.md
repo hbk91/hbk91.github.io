@@ -255,6 +255,28 @@ FIG AI Prompt Engineering </a>
 </li>
 </ol>
 
+### 12. Investment Banking FINRA Regulatory Exams
+
+<ol type="a">
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/IB_Exams_Overview.html' target='_blank'>
+Overview: Investment Banking FINRA Regulatory Exams </a>  
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/SIE_Prep.html' target='_blank'>
+SIE (Securities Industry Essentials) Prep </a>  
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Series63_Prep.html' target='_blank'>
+Series 63 Prep </a>  
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Series79_Prep.html' target='_blank'>
+Series 79 Prep </a>  
+</li>
+</ol>
+
+
 ### 12. Utility Softwares
 
 <ol type="a">
