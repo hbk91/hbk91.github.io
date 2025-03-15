@@ -255,7 +255,7 @@ FIG AI Prompt Engineering </a>
 </li>
 </ol>
 
-### 12. Investment Banking FINRA Regulatory Exams
+### 12. Investment Banking FINRA (Financial Industry Regulatory Authority) Regulatory Exams
 
 <ol type="a">
 <li>
