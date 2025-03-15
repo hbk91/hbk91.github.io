@@ -255,12 +255,12 @@ FIG AI Prompt Engineering </a>
 </li>
 </ol>
 
-### 12. Investment Banking FINRA (Financial Industry Regulatory Authority) Regulatory Exams
+### 12. Investment Banking Regulatory Exams
 
 <ol type="a">
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/IB_Exams_Overview.html' target='_blank'>
-Overview: Investment Banking FINRA Regulatory Exams </a>  
+Overview: Investment Banking Regulatory Exams </a>  
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/SIE_Prep.html' target='_blank'>
