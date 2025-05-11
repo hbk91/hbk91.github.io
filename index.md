@@ -411,6 +411,10 @@ NYC Housing </a>
 
 <ol type="a">
 <li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Half_Marathons.html' target='_blank'>
+Half Marathons </a>
+</li>
+<li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Exercises_Typology.html' target='_blank'>
 Exercises Typology </a>
 </li>
