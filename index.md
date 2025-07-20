@@ -389,6 +389,10 @@ NYC Housing </a>
 
 <ol type="a">
 <li>
+<a href= 'https://maniacfanaticmadness.blog/2025/07/17/meet-half-fanatic-18919-aman-jindal/' target='_blank'>
+My Running Story </a>
+</li>
+<li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Half_Marathons.html' target='_blank'>
 Half Marathons </a>
 </li>
