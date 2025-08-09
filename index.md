@@ -268,7 +268,7 @@ American Savings Bank (ASB) Acquisition </a>
 </li>
 </ol>
 
-### 12. Investment Banking Regulatory Exams
+### 13. Investment Banking Regulatory Exams
 
 <ol type="a">
 <li>
@@ -290,7 +290,7 @@ Series 79 Prep </a>
 </ol>
 
 
-### 13. Utility Softwares
+### 14. Utility Softwares
 
 <ol type="a">
 <li>
@@ -331,7 +331,7 @@ Discord </a>
 </li>
 </ol>
 
-### 14. Product Management
+### 15. Product Management
 
 <ol type="a">
 <li>
@@ -344,7 +344,7 @@ Enterprise Resource Planning (ERP) Companies </a>
 </li>
 </ol>
 
-### 15. US Industries
+### 16. US Industries
 
 <ol type="a">
 <li>
@@ -365,7 +365,7 @@ Healthcare Industry </a>
 </li>
 </ol>
 
-### 16. New York City
+### 17. New York City
 
 <ol type="a">
 <li>
@@ -394,7 +394,7 @@ NYC Housing </a>
 </li>
 </ol>
 
-### 17. Fitness
+### 18. Fitness
 
 <ol type="a">
 <li>
@@ -419,7 +419,7 @@ Fitness Podcasts & Youtube Channels </a>
 </li>
 </ol>
 
-### 18. Yale
+### 19. Yale
 
 <ol type="a">
 <li>
@@ -428,7 +428,7 @@ Yale Information </a>
 </li>
 </ol>
 
-### 19. General Purpose
+### 20. General Purpose
 
 <ol type="a">
 <li>
