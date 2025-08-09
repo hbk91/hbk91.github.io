@@ -259,8 +259,12 @@ FIG AI Prompt Engineering </a>
 
 <ol type="a">
 <li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/Banks.html' target='_blank'>
-Banks </a>  
+<a href= 'https://hbk91.github.io/2021StudyNotes/Banks_Industry.html' target='_blank'>
+Banks Industry </a>  
+</li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Banks_Nuts_and_Bolts.html' target='_blank'>
+Banks Nuts & Bolts </a>  
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/ASB_Acquisition.html' target='_blank'>
