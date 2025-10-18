@@ -267,6 +267,10 @@ Banks Industry </a>
 Banks Nuts & Bolts </a>  
 </li>
 <li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/M&A_social_consideratons.html' target='_blank'>
+M&A Social Considerations </a>  
+</li>
+<li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/ASB_Acquisition.html' target='_blank'>
 American Savings Bank (ASB) Acquisition </a>  
 </li>
