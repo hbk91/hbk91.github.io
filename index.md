@@ -339,7 +339,7 @@ Discord </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Microsoft_Teams.html' target='_blank'>
-Discord </a>
+Microsoft Teams </a>
 </li>
 </ol>
 
