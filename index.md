@@ -255,28 +255,7 @@ FIG AI Prompt Engineering </a>
 </li>
 </ol>
 
-### 12. Banks 
-
-<ol type="a">
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/Banks_Industry.html' target='_blank'>
-Banks Industry </a>  
-</li>
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/Banks_Nuts_and_Bolts.html' target='_blank'>
-Banks Nuts & Bolts </a>  
-</li>
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/M&A_social_consideratons.html' target='_blank'>
-M&A Social Considerations </a>  
-</li>
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/ASB_Acquisition.html' target='_blank'>
-American Savings Bank (ASB) Acquisition </a>  
-</li>
-</ol>
-
-### 13. Investment Banking Regulatory Exams
+### 12. Investment Banking Regulatory Exams
 
 <ol type="a">
 <li>
@@ -298,7 +277,7 @@ Series 79 Prep </a>
 </ol>
 
 
-### 14. Utility Softwares
+### 13. Utility Softwares
 
 <ol type="a">
 <li>
@@ -343,7 +322,7 @@ Microsoft Teams </a>
 </li>
 </ol>
 
-### 15. Product Management
+### 14. Product Management
 
 <ol type="a">
 <li>
@@ -356,7 +335,7 @@ Enterprise Resource Planning (ERP) Companies </a>
 </li>
 </ol>
 
-### 16. US Industries
+### 15. US Industries
 
 <ol type="a">
 <li>
@@ -377,7 +356,7 @@ Healthcare Industry </a>
 </li>
 </ol>
 
-### 17. New York City
+### 16. New York City
 
 <ol type="a">
 <li>
@@ -406,7 +385,7 @@ NYC Housing </a>
 </li>
 </ol>
 
-### 18. Fitness
+### 17. Fitness
 
 <ol type="a">
 <li>
@@ -431,7 +410,7 @@ Fitness Podcasts & Youtube Channels </a>
 </li>
 </ol>
 
-### 19. Yale
+### 18. Yale
 
 <ol type="a">
 <li>
@@ -440,7 +419,7 @@ Yale Information </a>
 </li>
 </ol>
 
-### 20. General Purpose
+### 19. General Purpose
 
 <ol type="a">
 <li>
