@@ -341,6 +341,10 @@ Discord </a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Microsoft_Teams.html' target='_blank'>
 Microsoft Teams </a>
 </li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Slack.html' target='_blank'>
+Discord </a>
+</li>
 </ol>
 
 ### 15. Product Management
