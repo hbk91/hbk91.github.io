@@ -302,7 +302,7 @@ Microsoft Teams </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Slack.html' target='_blank'>
-Discord </a>
+Slack </a>
 </li>
 </ol>
 
