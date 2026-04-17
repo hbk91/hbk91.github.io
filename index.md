@@ -1,7 +1,7 @@
 ---
 title: Aman Jindal's Blog
 tagline: Aman Jindal, CFA
-description: Finance | Business | AI | NYC | How about the lining? - Tactical  
+description: Business | Finance | AI | NYC | How about the lining? - Tactical  
 ---
 
 ### 1. Machine Learning & Finance Projects using Python
@@ -234,28 +234,8 @@ PitchBook </a>
 </li>
 </ol>
 
-### 11. Investment Banking: Financial Institutions Group (FIG) 
 
-<ol type="a">
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/FIG_Overview.html' target='_blank'>
-FIG Overview </a>  
-</li>
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/FIG_Podcasts.html' target='_blank'>
-FIG Podcasts </a>  
-</li>
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/Treasury_Markets.html' target='_blank'>
-Treasury Markets </a>  
-</li>
-<li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/FIG_AI_Prompting.html' target='_blank'>
-FIG AI Prompt Engineering </a>  
-</li>
-</ol>
-
-### 12. Investment Banking Regulatory Exams
+### 11. Investment Banking Regulatory Exams
 
 <ol type="a">
 <li>
@@ -277,7 +257,7 @@ Series 79 Prep </a>
 </ol>
 
 
-### 13. Utility Softwares
+### 12. Utility Softwares
 
 <ol type="a">
 <li>
@@ -326,7 +306,7 @@ Discord </a>
 </li>
 </ol>
 
-### 14. Product Management
+### 13. Product Management
 
 <ol type="a">
 <li>
@@ -339,7 +319,7 @@ Enterprise Resource Planning (ERP) Companies </a>
 </li>
 </ol>
 
-### 15. US Industries
+### 14. US Industries
 
 <ol type="a">
 <li>
@@ -360,7 +340,7 @@ Healthcare Industry </a>
 </li>
 </ol>
 
-### 16. New York City
+### 15. New York City
 
 <ol type="a">
 <li>
@@ -389,7 +369,7 @@ NYC Housing </a>
 </li>
 </ol>
 
-### 17. Fitness
+### 16. Fitness
 
 <ol type="a">
 <li>
@@ -414,7 +394,7 @@ Fitness Podcasts & Youtube Channels </a>
 </li>
 </ol>
 
-### 18. Yale
+### 17. Yale
 
 <ol type="a">
 <li>
@@ -423,7 +403,7 @@ Yale Information </a>
 </li>
 </ol>
 
-### 19. General Purpose
+### 18. General Purpose
 
 <ol type="a">
 <li>
