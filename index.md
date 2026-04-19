@@ -340,7 +340,16 @@ Healthcare Industry </a>
 </li>
 </ol>
 
-### 15. New York City
+### 15. Fair competition
+
+<ol type="a">
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Anti-trust_laws.html' target='_blank'>
+Anti-trust laws </a>
+</li>
+</ol>
+
+### 16. New York City
 
 <ol type="a">
 <li>
@@ -369,7 +378,7 @@ NYC Housing </a>
 </li>
 </ol>
 
-### 16. Fitness
+### 17. Fitness
 
 <ol type="a">
 <li>
@@ -394,7 +403,7 @@ Fitness Podcasts & Youtube Channels </a>
 </li>
 </ol>
 
-### 17. Yale
+### 18. Yale
 
 <ol type="a">
 <li>
@@ -403,7 +412,7 @@ Yale Information </a>
 </li>
 </ol>
 
-### 18. General Purpose
+### 19. General Purpose
 
 <ol type="a">
 <li>
