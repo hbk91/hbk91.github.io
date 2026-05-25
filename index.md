@@ -158,6 +158,10 @@ Podcasts: Business, Financial Markets, Strategy, & Tech </a>
 
 <ol type="a">
 <li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Clause_Code.html' target='_blank'>
+Udacity Machine Learning Engineer Nanodegree </a>
+</li>
+<li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Udacity_MLEngineer.html' target='_blank'>
 Udacity Machine Learning Engineer Nanodegree </a>
 </li>
