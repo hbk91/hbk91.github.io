@@ -158,8 +158,8 @@ Podcasts: Business, Financial Markets, Strategy, & Tech </a>
 
 <ol type="a">
 <li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/Clause_Code.html' target='_blank'>
-Udacity Machine Learning Engineer Nanodegree </a>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Claude_Code.html' target='_blank'>
+Claude CodeG </a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Udacity_MLEngineer.html' target='_blank'>
