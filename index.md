@@ -183,8 +183,8 @@ AI Business Cases </a>
 
 <ol type="a">
 <li>
-<a href= 'https://hbk91.github.io/2021StudyNotes/Claude.html' target='_blank'>
-Claude </a>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Claude_Overview.html' target='_blank'>
+Claude Overview</a>
 </li>
 <ol type="a">
 <li>
