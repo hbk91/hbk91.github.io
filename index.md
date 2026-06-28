@@ -152,6 +152,10 @@ CFA<sup>&reg;</sup> Study Notes</a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Business_Podcasts.html' target='_blank'>
 Podcasts: Business, Financial Markets, Strategy, & Tech </a>
 </li>
+<li>
+<a href= 'https://hbk91.github.io/2021StudyNotes/Anti-trust_laws.html' target='_blank'>
+Anti-trust Laws </a>
+</li>
 </ol>
 
 ### 8. Machine Learning, AI, and Mathematics
