@@ -184,7 +184,7 @@ AI Business Cases </a>
 <ol type="a">
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Claude.html' target='_blank'>
-Claude Code </a>
+Claude </a>
 </li>
 <ol type="a">
 <li>
