@@ -190,7 +190,6 @@ AI Business Cases </a>
 <a href= 'https://hbk91.github.io/2021StudyNotes/Claude_Overview.html' target='_blank'>
 Claude Overview</a>
 </li>
-<ol type="a">
 <li>
 <a href= 'https://hbk91.github.io/2021StudyNotes/AI_Limits_Capabilities.html' target='_blank'>
 AI Limits and Capabilities </a>
