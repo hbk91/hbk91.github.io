@@ -22,8 +22,11 @@ A Deep Learning Model for Trading: LSTM (Long short-term memory) Attention Model
 </ol>
 
 ### 2. Gullak Savings Manager
+<ol type="a">
+<li>  
 <a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/Gullak_Savings_Manager/Gullak_Savings_Manager_Product_Idea.html' target='_blank'>Gullak Savings Manager - A Robo Wealth Advisor for the Masses</a>
-
+</li>
+  
 ### 3. Machine Learning Projects using R
 
 <ol type="a">
